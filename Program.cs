@@ -4,6 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine("MarioBuononato.3F.29/10/26.Fratelli.a casa");
+        Console.WriteLine("Date l'età dei tre fratelli trova qual'è quello maggiore/minore e fa la differenza tra i 2");
+
         int fr1,fr2,fr3;
         int diff,max,min;
         Console.WriteLine("Inserisci l'età del fratello 1: ");
